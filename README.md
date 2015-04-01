@@ -1,3 +1,3 @@
-*FLAKPACK*
-
+FLAKPACK
+==========
 EBOLAIDS private modpack.
