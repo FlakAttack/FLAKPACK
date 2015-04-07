@@ -2,4 +2,4 @@ FLAKPACK
 ==========
 EBOLAIDS private modpack.
 
-Currently on Version 2
+Currently on Version 3
