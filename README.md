@@ -2,7 +2,7 @@ FLAKPACK
 ==========
 EBOLAIDS private modpack.
 
-Currently on Version 7
+Currently on Version 8
 
 ## NEW INSTALL METHOD
 
